@@ -3,4 +3,5 @@
 3. Audio
 4. foreign call
 5. video call
-6. Schedule message morning
+6. Schedule message at anytime
+
